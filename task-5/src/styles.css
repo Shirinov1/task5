@@ -1,0 +1,12 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  p {
+    width: 100px;
+    height: 80px;
+    background: rgb(216, 194, 164);
+    padding-top: 30px;
+    border: 2px solid yellowgreen;
+  }
+  
